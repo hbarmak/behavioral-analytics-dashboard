@@ -1,5 +1,5 @@
 
-# Behavioral Analytics Dashboard
+# Decision-avoidance-analytics-dashboard
 
 This project demonstrates a Power BI dashboard analyzing behavioral data through KPI tracking and user segmentation.
 
